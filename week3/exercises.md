@@ -5,7 +5,7 @@ Exercises
 a note before you start: 
 
 Programming is just problem-solving in disguise. 
-Trying to tackling a problem all at once is NOT good strategy. 
+Trying to tackling a problem all at once is not good strategy. 
 Breaking it down into parts IS good strategy. 
 Start simple and build up. 
 
